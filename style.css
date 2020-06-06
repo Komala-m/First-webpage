@@ -1,0 +1,19 @@
+body{
+	background-image: url(m3.svg);
+	background-repeat: repeat-y;
+	}
+img{
+	display:block; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+p{
+	padding: 0;
+	margin: 0;
+	text-align: left;
+	font-family: 'sans-serif';
+}
+.pic{
+position: relative;
+top: 100px;
+}
